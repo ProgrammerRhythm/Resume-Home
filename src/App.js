@@ -9,9 +9,8 @@ function App() {
         <div style={{display: 'flex'}} className="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 col-xxl-6">
             <div style={{flexDirection: 'column',justifyContent: 'center'}} className="ContentSection d-flex justify-content-center align-items-center">
             <img className="d-flex justify-content-center" src={logo} alt="" /> 
-            <a class="Home__Button-bsEUpq bsFezP" href="/generator">Make New Resume</a> 
-            <a class="Home__Button-bkXEXP hFMPuQ" href="/generator">Continue Session</a> 
-            <a class="Home__Button-bkXEXP hFMPuQ" href="/generator">Import JSON</a> 
+            <a class="Home__Button-bsEUpq bsFezP" href="/generator">Login</a> 
+            <a class="Home__Button-bkXEXP hFMPuQ" href="/generator">Register</a> 
             </div>
         </div>
         <div className="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 col-xxl-6 ImgCv">
