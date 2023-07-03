@@ -102,9 +102,15 @@
   right: -50px;
   border: none;
 }
+.CvCover{
+  height: auto;
+  width: 100%;
+}
+
  @media screen and (max-width: 991px) {
     .ImgCv{
       display: none;
     }
+
  } 
 
